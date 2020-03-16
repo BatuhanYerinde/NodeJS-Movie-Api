@@ -13,5 +13,18 @@
     "jade": "~1.11.0",
     "mongoose": "^5.7.12",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "NodeJs movie API uygulaması. Bu uygulamada filmler ve yönetmenlerle alakalı bilgiler sunulmaktadır.",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatuhanYerinde/NodeJS-Movie-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BatuhanYerinde/NodeJS-Movie-Api/issues"
+  },
+  "homepage": "https://github.com/BatuhanYerinde/NodeJS-Movie-Api#readme"
 }
