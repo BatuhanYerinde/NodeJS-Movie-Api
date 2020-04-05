@@ -12,7 +12,7 @@ describe('/api/movies tests', () => {
     before((done) => {
         chai.request(server)
             .post('/entry/authenticate')
-            .send({username: 'BatuhanYerinde', password:'batu1234'})
+            .send({username: 'AliYerinde', password:'ali1234'})
             .end((err,res) =>{
 
                 token = res.body.token;
