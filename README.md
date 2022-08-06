@@ -1,2 +1,3 @@
 # NodeJS-Movie-Api
-NodeJs movie API uygulaması. Bu uygulamada filmler ve yönetmenlerle alakalı bilgiler sunulmaktadır.
+
+NodeJs movie API implementation. This application provides information about movies and directors.
